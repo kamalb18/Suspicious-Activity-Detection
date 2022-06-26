@@ -12,6 +12,8 @@ The order to follow for preprocessing is:
 
 (ii) then run the file **preprocess2.py**
 
+Before running the preprocess3.py make a copy of videos you get inside the folder after running the preprocess2.py and name one folder as "DCSASS_Dataset_vid" and let the folder remain as it is.
+
 (iii) atlast run the file **preprocess3.py**
 
 **Training:**
