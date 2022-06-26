@@ -18,7 +18,7 @@ Before running the preprocess3.py make a copy of videos you get inside the folde
 
 **Training:**
 
-For Training purpose we have created a ipynb file named **Tranquilizer.ipynb** . Along with **ipynb** we have used two py files for training purpose which are enclosed in the **model** folder.
+For Training purpose we have created a ipynb file named **Tranquilizer.ipynb** . Along with **ipynb** we have used two py **essential.py** and **slowfast.py** files for training purpose which are enclosed in the **model** folder.
 
 **References:**
 
